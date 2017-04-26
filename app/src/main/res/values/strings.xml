@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reproduzindo</string>
+    <string name="meusPC">Meus PodCasts</string>
+    <string name="buscarPC">Buscar Podcasts</string>
+    <string name="textReproduzindo">Activity que mostra o podcast que está tocando no momento, e onde fica o controle do audio(Stop, Play, Pause, etc);\nUsar a classe MediaController no player</string>
+    <string name="textMeusPC">Activity para listar todos os arquivos de podcasts salvos no smartphone</string>
+    <string name="textBuscarPC">Activity para buscar arquivos de podcasts na internet;\n Usar API: Digital Podcast Search Service</string>
+
+</resources>
